@@ -1,4 +1,5 @@
-```usage: reset_asset_groups.py [-h] [-u USER] [-p PASSWORD] [-a API_URL] [-P] [-U PROXY_URL] [-s] [-d]
+```
+usage: reset_asset_groups.py [-h] [-u USER] [-p PASSWORD] [-a API_URL] [-P] [-U PROXY_URL] [-s] [-d]
 
 options:
   -h, --help            show this help message and exit
